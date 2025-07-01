@@ -28,7 +28,7 @@ In the future, I plan to dive into Mobile Development 📱 and explore new techn
 - Object-Oriented Programming (OOP)
 - Databases (SQL)
 - Backend Fundamentals
-- Mobile Development (Flutter / Kotlin / React Native)
+- Mobile Development (Swift / Kotlin / React Native)
 
 ---
 
