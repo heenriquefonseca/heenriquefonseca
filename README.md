@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Henrique Fonseca 👋</h1>
 
-<p align="center">Software Engineering Student | Learning Python | Future Mobile Developer</p>
+<p align="center">Software Engineering Student | Learning JavaScript | Future Mobile Developer</p>
 
 ---
 
@@ -10,16 +10,17 @@ I'm a Software Engineering student passionate about technology and programming.
 
 At the moment, I'm focused on building a solid foundation in logic, algorithms, and Python basics — always looking to evolve and improve a little every day.
 
-In the future, I plan to dive into Mobile Development 📱 and explore new technologies.
+Now, I'm studying JavaScript programming language to dive in the Mobile area. 📱
 
 ---
 
 ## What I'm Learning
 
 - Logic & Algorithms
-- Python Fundamentals
+- Python Basics
 - Problem Solving
-- Version Control with Git
+- JavaScript
+- HTML & CSS
 
 ---
 
@@ -27,8 +28,7 @@ In the future, I plan to dive into Mobile Development 📱 and explore new techn
 
 - Object-Oriented Programming (OOP)
 - Databases (SQL)
-- Backend Fundamentals
-- Mobile Development (Swift / Kotlin / React Native)
+- Mobile Development (React Native)
 
 ---
 
