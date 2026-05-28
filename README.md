@@ -1,34 +1,42 @@
 <h1 align="center">Hey, I'm Henrique Fonseca 👋</h1>
-
-<p align="center">Software Engineering Student | Learning JavaScript | Future Mobile Developer</p>
+<p align="center">Software Engineering Student | Cybersecurity & Data Analysis Enthusiast</p>
 
 ---
 
 ## About me
 
-I'm a Software Engineering student passionate about technology and programming.
+I'm a Software Engineering student at UDF Centro Universitário, passionate about technology and building a strong technical foundation.
 
-At the moment, I'm focused on building a solid foundation in logic, algorithms, and Python basics — always looking to evolve and improve a little every day.
-
-Now, I'm studying JavaScript programming language to dive in the Mobile area. 📱
+I'm currently in career transition toward **Cybersecurity**, believing that deep software development knowledge is the key to building more secure and resilient systems. At the same time, I work as an intern at **BB Tecnologia e Serviços (BBTS)**, where I work with data analysis, Power BI dashboards, and process automation using Power Apps. 🔐📊
 
 ---
 
 ## What I'm Learning
 
-- Logic & Algorithms
-- Python Basics
-- Problem Solving
-- JavaScript
-- HTML & CSS
+- Linux & Networking (TCP/IP)
+- Pentesting fundamentals
+- Python & SQL
+- Web Architecture
+- Power BI & Data Analysis
+
+---
+
+## Experience
+
+**BB Tecnologia e Serviços (BBTS)** — *Intern* (Oct 2025 – Present)
+- Data analysis and reporting to support decision-making and risk analysis
+- Excel-based structured analysis for better analytical delivery
+- Power BI dashboards for data visualization
+- Developed a Demand Management App using **Microsoft Power Apps** + **SharePoint Lists**
 
 ---
 
 ## Next Steps
 
-- Object-Oriented Programming (OOP)
+- Deepen studies in Cybersecurity (Pentesting & Ethical Hacking)
+- Strengthen Python for security-oriented development
 - Databases (SQL)
-- Mobile Development (React Native)
+- Cloud & Security Architecture
 
 ---
 
